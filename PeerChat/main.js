@@ -1,4 +1,4 @@
-let APP_ID = "b4a0bdda83354d8c8a0a80e8786f1b66"
+let APP_ID = "YOUR APP ID FROM AGORA"
 
 
 let token = null;
